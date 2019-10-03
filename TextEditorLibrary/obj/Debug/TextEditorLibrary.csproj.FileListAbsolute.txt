@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2017\Projects\TextEditor\TextEditorLibrary\bin\Debug\TextEditorLibrary.dll
+c:\users\user\documents\visual studio 2017\Projects\TextEditor\TextEditorLibrary\bin\Debug\TextEditorLibrary.pdb
+c:\users\user\documents\visual studio 2017\Projects\TextEditor\TextEditorLibrary\obj\Debug\TextEditorLibrary.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\TextEditor\TextEditorLibrary\obj\Debug\TextEditorLibrary.dll
+c:\users\user\documents\visual studio 2017\Projects\TextEditor\TextEditorLibrary\obj\Debug\TextEditorLibrary.pdb
+C:\Users\user\Documents\visual studio 2017\Repositories\TextEditor_MVP\TextEditorLibrary\bin\Debug\TextEditorLibrary.dll
+C:\Users\user\Documents\visual studio 2017\Repositories\TextEditor_MVP\TextEditorLibrary\bin\Debug\TextEditorLibrary.pdb
+C:\Users\user\Documents\visual studio 2017\Repositories\TextEditor_MVP\TextEditorLibrary\obj\Debug\TextEditorLibrary.dll
+C:\Users\user\Documents\visual studio 2017\Repositories\TextEditor_MVP\TextEditorLibrary\obj\Debug\TextEditorLibrary.pdb
+C:\Users\user\Documents\visual studio 2017\Repositories\TextEditor_MVP\TextEditorLibrary\bin\Debug\Autofac.dll
+C:\Users\user\Documents\visual studio 2017\Repositories\TextEditor_MVP\TextEditorLibrary\bin\Debug\Autofac.pdb
+C:\Users\user\Documents\visual studio 2017\Repositories\TextEditor_MVP\TextEditorLibrary\bin\Debug\Autofac.xml
+C:\Users\user\Documents\visual studio 2017\Repositories\TextEditor_MVP\TextEditorLibrary\obj\Debug\TextEditorLibrary.csprojResolveAssemblyReference.cache
